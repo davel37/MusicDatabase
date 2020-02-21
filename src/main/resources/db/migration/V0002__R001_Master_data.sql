@@ -1,0 +1,1 @@
+INSERT INTO artist (id, name,country) VALUES (1, 'u2', 'Ireland')
